@@ -5,8 +5,11 @@
 -- This project includes the following:
 
 • Tuning the best k of a KNN Classifier
+
 • Analysing of bias-variance trade-off
+
 • Reducing the complexity(Using RNN and CNN)
+
 • Analysing artificial imbalancy
   
 -- Please refer to report for detailed explanation of the project.
